@@ -1,5 +1,8 @@
 Vacation_Search/config.py
 Weather_Database/config.py
+Vacation_Itinerary/config.py
+Vacation_Search/Vacation_Search_starter_code.ipynb
+Vacation_Itinerary/Vacation_Itinerary_starter_code.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
